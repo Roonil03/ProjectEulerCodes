@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
 	n := 20
@@ -18,4 +20,14 @@ func main() {
 		}
 	}
 	fmt.Println("The result is: ", grid[0][0])
+	// res := fact(int64(n*2)) / int64(math.Pow(float64(fact(int64(n))), float64(2)))
+	// fmt.Println("The result is: ", res)
+	// fmt.Println(fact(40))
 }
+
+// func fact(a int64) int64 {
+// 	if a == 2 {
+// 		return int64(2)
+// 	}
+// 	return a * fact(a-1)
+// }
