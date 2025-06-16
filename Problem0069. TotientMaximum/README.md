@@ -34,3 +34,8 @@ It can be seen that n = 6
 Find the value of n <= 1,000,000
  for which n / φ(n)
  is a maximum.
+
+ ### Answer:
+ ```
+ 510510
+ ```
