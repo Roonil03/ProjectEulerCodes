@@ -6,3 +6,6 @@ Bonus problems are unlocked randomly after completing a certain problem.
 
 ### Problem √13:
 > Unlocked after completing problem 66
+
+### Problem 18i:
+> Unlocked after completing problem 69
