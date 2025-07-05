@@ -12,3 +12,6 @@ Bonus problems are unlocked randomly after completing a certain problem.
 
 ### Problem Secret:
 > Unlocked after completing problem 108
+
+### Problem Heegner:
+> Unlocked after completing problem 109
