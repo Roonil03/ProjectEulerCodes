@@ -11,3 +11,5 @@ How many values of $n$ less than one million have exactly ten distinct solutions
 
 ### Answer:
 ```
+4989
+```
