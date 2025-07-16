@@ -26,3 +26,5 @@ How many times does the beam hit the internal surface of the white cell before e
 
 ### Answer:
 ```
+354
+```
