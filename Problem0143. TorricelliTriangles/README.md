@@ -15,5 +15,5 @@ Find the sum of all distinct values of $p + q + r \le 120000$ for Torricelli tri
 
 ### Answer:
 ```
-couldn't solve
+30758397
 ```
