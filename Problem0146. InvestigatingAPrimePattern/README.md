@@ -6,5 +6,5 @@ What is the sum of all such integers $n$ below 150 million?
 
 ### Answer:
 ```
-couldn't solve
+676333270
 ```
