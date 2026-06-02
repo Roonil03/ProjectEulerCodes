@@ -14,3 +14,5 @@ How many coefficients in the expansion of $(x + y + z)^{200000}$ are multiples o
 
 ### Answer:
 ```
+479742450
+```
