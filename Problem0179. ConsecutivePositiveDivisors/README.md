@@ -5,5 +5,5 @@ Find the number of integers $1 \lt n \lt 10^7$, for which $n$ and $n + 1$ have t
 
 ### Answer:
 ```
-
+986262
 ```
