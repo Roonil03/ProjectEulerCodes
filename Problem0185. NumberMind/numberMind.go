@@ -152,3 +152,5 @@ func main() {
 	dfsRight(8, 0, State{}, maxRight)
 	fmt.Println(result)
 }
+
+// Used on online solution
