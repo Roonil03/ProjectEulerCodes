@@ -11,5 +11,5 @@ Find the last $8$ digits of $1777 \mathbin{\uparrow \uparrow} 1855$.
 
 ### Answer:
 ```
-
+95962097
 ```
